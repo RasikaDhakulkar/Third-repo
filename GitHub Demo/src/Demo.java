@@ -14,7 +14,10 @@ public class Demo
 	System.out.println("m2-method");
 	}
 	
-	
+	public void m5()
+	{
+	System.out.println("m5-method");
+	}
 
 
 }
